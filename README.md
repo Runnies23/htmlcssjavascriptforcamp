@@ -1,4 +1,4 @@
-###ทำDOM Manipulation - No framework \ 
+###ทำDOM Manipulation - No framework
 1.button ไปหน้าyoutube - เขี้ยวกุด  <br>
 2.hover effect ไปชี้จะมีการตอบสนอง <br>
 3.visible element กดเพื่อที่จะshow เเละ ซ่อน <br>
