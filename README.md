@@ -1,4 +1,4 @@
-ทำDOM Manipulatio (no framework)
+ทำ 3 DOM Manipulatio (no framework)
 ---------------
 1.button ไปหน้าyoutube - เขี้ยวกุด  <br>
 2.hover effect ไปชี้จะมีการตอบสนอง <br>
