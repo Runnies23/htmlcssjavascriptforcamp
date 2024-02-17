@@ -1,0 +1,71 @@
+.hovereffect {
+   padding: 20px;
+   background-color: lightgrey;
+   width: 200px;
+   text-align: center;
+   margin-right: 15px;
+   margin-left: 15px;
+}
+
+.hovereffect:hover {
+   background-color: grey;
+   color: white;
+   margin-right: 15px;
+   margin-left: 15px;
+}
+
+.background { 
+   width: full;
+   height :fit-content;
+   padding-top: 10rem;
+}
+.middle{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+}
+.toggletextbtn{
+   flex-direction: column;
+   display: flex;
+}
+.con{ 
+   margin-top: 2rem;
+   display: flex;
+   align-items: center;
+}
+.con-2{
+   margin-top: 2rem;
+   display: flex;
+   gap: 2rem;
+}
+.textcen{
+   text-align: center;
+}
+.bgimg{
+   z-index: -1;
+   position: absolute;
+   background-size: cover;
+}
+body{
+   background-color: #4A4A4A;
+}
+p{
+   color : white;
+}
+.img{ 
+   width:40rem;
+   
+}
+
+.hoverimage {
+   transition: transform 0.5s ease, opacity 0.5s ease;
+   width: 40rem;
+   margin-top: 2rem;
+ }
+ 
+ .hoverimage:hover {
+   transform: scale(1.2);
+   opacity: 0.8;
+   width: 40rem;
+ }
